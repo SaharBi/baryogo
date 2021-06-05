@@ -151,7 +151,7 @@ function OurServices(props) {
             <img
               width={100}
               height={100}
-              className="mr-5 menuImg"
+              className="menuImg"
               src={stall.image}
               alt={stall.title}
             />
@@ -171,7 +171,7 @@ function OurServices(props) {
             <div className="container">
             <h5 className='adr'>השירותים שלנו</h5>
             <div className="row align-items-start contact">
-                <div className='row row-contnent'>
+                <div className='ro2'>
                 {menu}
                 </div>
 

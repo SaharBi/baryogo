@@ -165,6 +165,7 @@ address{
 
 .mediaMenu {
   margin-bottom: 20px;
+
 }
 
 .gal {
@@ -214,4 +215,23 @@ address{
 
 .headT {
   font-family: 'David';
+}
+
+.caru {
+  max-width: 100%;
+  width: 700px;
+  height: auto;
+}
+
+.caru2 {
+  max-width: 100%;
+  width: 700px;
+  height: auto;
+}
+
+.ro2{
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-right: 15px; */
+  margin-left: 0;
 }

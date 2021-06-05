@@ -125,7 +125,7 @@ function OurCustomers(props) {
         <div className='container'>
             <div className='row row-header'>
                 <div className='row contact'>
-                <h5>לקוחות ממליצים</h5><br/>
+                <h5>לקוחות מרוצים</h5><br/>
                 </div>
                 <div className='row row-header'>
             {menu}

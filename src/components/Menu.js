@@ -83,7 +83,7 @@ function Menu(props) {
             <Carousel>
   <Carousel.Item interval={5000}>
     <img
-      className="d-block w-80 m-auto carImg"
+      className="d-block caru w-80 m-auto carImg"
       src={pic2}
       height='350'
     //   alt="First slide"
@@ -95,7 +95,7 @@ function Menu(props) {
   </Carousel.Item>
   <Carousel.Item interval={5000}>
     <img
-      className="d-block w-80 m-auto  carImg"
+      className="d-block caru w-80 m-auto  carImg"
       height='350'
       src={pic1}
     //   alt="Second slide"
@@ -107,7 +107,7 @@ function Menu(props) {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-80 m-auto  carImg"
+      className="d-block caru w-80 m-auto caru carImg"
       height='350'
       src={pic3}
     //   alt="Third slide"

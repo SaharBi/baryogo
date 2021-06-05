@@ -26,7 +26,7 @@ function AboutUs(props) {
                         </div>
                 </div>
                 <div className="col-12 col-sm-5 offset-sm-1">
-                    <img src={AboutUsImg} height={400} width={450}></img>
+                    <img className='caru2' src={AboutUsImg} height={400} width={450}></img>
                 </div>
             </div>
         </div>

@@ -187,12 +187,12 @@ function Gallerya(props) {
 </Carousel>
                         </div>
                 </div>
-                <div className="col-6 row-header">
+                <div className="col-lg-6 row-header">
                 <h5>סרטונים</h5><br />
                 <div className='row'>
                 <div className='video carImg'>
                 <Player
-      playsInline
+      // playsInline
       poster={vid1Img}
       src={vid1}
       width='100%'
@@ -201,7 +201,7 @@ function Gallerya(props) {
     />
     </div> <div className='video carImg'>
                     <Player
-      playsInline
+      // playsInline
       poster={vid2Img}
       src={vid2}
       width='100%'
