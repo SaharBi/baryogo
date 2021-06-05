@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/SaharBi/baryogo.git/static/css/main.dceb6393.chunk.css",
-    "main.js": "/SaharBi/baryogo.git/static/js/main.1baa5d0e.chunk.js",
-    "main.js.map": "/SaharBi/baryogo.git/static/js/main.1baa5d0e.chunk.js.map",
+    "main.js": "/SaharBi/baryogo.git/static/js/main.8e9b52ec.chunk.js",
+    "main.js.map": "/SaharBi/baryogo.git/static/js/main.8e9b52ec.chunk.js.map",
     "runtime-main.js": "/SaharBi/baryogo.git/static/js/runtime-main.0c6903cf.js",
     "runtime-main.js.map": "/SaharBi/baryogo.git/static/js/runtime-main.0c6903cf.js.map",
     "static/css/2.c89c6da0.chunk.css": "/SaharBi/baryogo.git/static/css/2.c89c6da0.chunk.css",
-    "static/js/2.76f344d4.chunk.js": "/SaharBi/baryogo.git/static/js/2.76f344d4.chunk.js",
-    "static/js/2.76f344d4.chunk.js.map": "/SaharBi/baryogo.git/static/js/2.76f344d4.chunk.js.map",
+    "static/js/2.7f73215b.chunk.js": "/SaharBi/baryogo.git/static/js/2.7f73215b.chunk.js",
+    "static/js/2.7f73215b.chunk.js.map": "/SaharBi/baryogo.git/static/js/2.7f73215b.chunk.js.map",
     "static/js/3.bb049a85.chunk.js": "/SaharBi/baryogo.git/static/js/3.bb049a85.chunk.js",
     "static/js/3.bb049a85.chunk.js.map": "/SaharBi/baryogo.git/static/js/3.bb049a85.chunk.js.map",
     "index.html": "/SaharBi/baryogo.git/index.html",
     "static/css/2.c89c6da0.chunk.css.map": "/SaharBi/baryogo.git/static/css/2.c89c6da0.chunk.css.map",
     "static/css/main.dceb6393.chunk.css.map": "/SaharBi/baryogo.git/static/css/main.dceb6393.chunk.css.map",
-    "static/js/2.76f344d4.chunk.js.LICENSE.txt": "/SaharBi/baryogo.git/static/js/2.76f344d4.chunk.js.LICENSE.txt",
+    "static/js/2.7f73215b.chunk.js.LICENSE.txt": "/SaharBi/baryogo.git/static/js/2.7f73215b.chunk.js.LICENSE.txt",
     "static/media/1.1bfa9176.jpg": "/SaharBi/baryogo.git/static/media/1.1bfa9176.jpg",
     "static/media/1.c811adb4.jpg": "/SaharBi/baryogo.git/static/media/1.c811adb4.jpg",
     "static/media/10.e6555935.jpg": "/SaharBi/baryogo.git/static/media/10.e6555935.jpg",
@@ -84,8 +84,8 @@
   "entrypoints": [
     "static/js/runtime-main.0c6903cf.js",
     "static/css/2.c89c6da0.chunk.css",
-    "static/js/2.76f344d4.chunk.js",
+    "static/js/2.7f73215b.chunk.js",
     "static/css/main.dceb6393.chunk.css",
-    "static/js/main.1baa5d0e.chunk.js"
+    "static/js/main.8e9b52ec.chunk.js"
   ]
 }
