@@ -1,0 +1,217 @@
+body{
+  direction: rtl;
+  font-family: 'David';
+}
+
+.navbar {
+  background-color: #ff8d8d;
+}
+
+p  {
+  text-align: center;
+}
+
+a.nav-link {
+  text-align: center;
+}
+
+ul.navbar-nav {
+  padding: 0 0 0 0;
+}
+
+h1 {
+  text-align: right;
+  margin-right: 10%;
+}
+
+h5{
+  text-align: center;
+}
+
+.row-header{
+  margin:auto;
+  justify-content: center;
+}
+
+/* .row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+} */
+
+.footer{
+  text-align: center;
+  background-color: #ffd2d2;
+  margin:0px auto;
+  margin-top: 20px;
+  padding: 10px 0px 0px 0px;
+}
+/* .jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #9575CD ;
+  color:floralwhite;
+} */
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.fa {
+  margin-right: 20px;
+}
+
+.lis {
+  font-size: 12px;
+}
+
+.links{
+  color: black;
+}
+
+.links:hover{
+  color: #6e6e6e;
+  text-decoration: none;
+}
+.links:active{
+  color: black;
+  
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+.fa-facebook:hover {
+  color: #3359fe;
+}
+
+.fa-instagram:hover {
+  color: #f733fe;
+}
+
+.fa-facebook:active {
+  color: black;
+}
+
+.fa-instagram:active {
+  color: black;
+}
+
+.adr {
+  text-align: center;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.cardt {
+  text-align: right;
+  font-weight: bold;
+}
+
+.cardt3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.cardtext {
+  text-align: right;
+}
+.cardtext3 {
+  text-align: center;
+}
+.cardtext2 {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.subbtn{
+  margin-bottom: 10px;
+}
+
+.green {
+  color: green;
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.errorTypeN{
+  color: red;
+  text-align: right;
+  font-size: small;
+}
+
+.btn2{
+  margin: 10px;
+}
+
+.textar {
+  white-space: pre-wrap;
+  resize: none;
+}
+
+.mediaMenu {
+  margin-bottom: 20px;
+}
+
+.gal {
+  margin: 5px;
+}
+
+.video {
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+}
+
+.tit {
+  margin: 10px;
+}
+
+.card {
+  min-height: 260px;
+}
+
+.titlee {
+  font-weight: bold;
+  color: #ff8d8d;
+  font-size: 150%;
+}
+
+.titlee2 {
+  font-weight: bold;
+  color: #ff8d8d;
+  text-decoration: underline;
+}
+
+.menuImg {
+  border: 1px solid #ddd;
+  padding: 3px;
+}
+
+.menuImg:hover {
+  box-shadow: 0 0 2px 1px #ff8d8d;
+}
+
+.carImg {
+  border: 1px solid #ddd;
+  padding: 3px;
+  border-radius: 8px;
+}
+
+.headT {
+  font-family: 'David';
+}
