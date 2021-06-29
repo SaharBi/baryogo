@@ -1,8 +1,31 @@
 body{
   direction: rtl;
-  font-family: 'David';
+  font-family: 'Heebo', sans-serif;
+/* font-family: 'M PLUS Rounded 1c', sans-serif; */
 }
 
+.font-link {
+  font-family: 'Heebo', sans-serif;
+  /* font-family: 'M PLUS Rounded 1c', sans-serif; */
+}
+
+.whatsapp {
+  background: none;
+  border: none;
+}
+
+.icon-color{
+  color:#f5f3f3;
+  padding-top: 12%;
+}
+
+.btnc {
+  width: 250px;
+}
+
+.whatsapp-icon{
+  width: 80%;
+}
 .navbar {
   background-color: #ff8d8d;
 }
@@ -25,6 +48,10 @@ h1 {
 }
 
 h5{
+  text-align: center;
+}
+
+h6{
   text-align: center;
 }
 
@@ -169,7 +196,7 @@ address{
 }
 
 .gal {
-  margin: 5px;
+  margin: 2px;
 }
 
 .video {
@@ -192,6 +219,10 @@ address{
   font-size: 150%;
 }
 
+.bbtn {
+  align-items: center;
+}
+
 .titlee2 {
   font-weight: bold;
   color: #ff8d8d;
@@ -201,6 +232,10 @@ address{
 .menuImg {
   border: 1px solid #ddd;
   padding: 3px;
+}
+
+.menuImg2 {
+  border: 1px solid #ddd;
 }
 
 .menuImg:hover {
@@ -214,7 +249,8 @@ address{
 }
 
 .headT {
-  font-family: 'David';
+  font-family: 'Heebo', sans-serif;
+/* font-family: 'M PLUS Rounded 1c', sans-serif; */
 }
 
 .caru {

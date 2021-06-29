@@ -7,7 +7,7 @@ function AboutUs(props) {
               <div className='contact'>
             <div className="container">
             <div className="row row-content">
-                <div className="col-12 col-sm-5 offset-sm-1">
+                <div className="col-12 col-sm-5 offset-sm-1 font-link">
                     <div className='adr'>
                         <h5>מי אנחנו</h5><br />
                         <p className='titlee'>

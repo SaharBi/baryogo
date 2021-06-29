@@ -157,7 +157,7 @@ function OurServices(props) {
             />
             <Media.Body>
               <h6 className='cardtext2'>{stall.title}</h6>
-              <p className='cardtext2'>
+              <p className='cardtext2 font-link'>
                 {stall.description}
               </p>
             </Media.Body>
@@ -169,7 +169,7 @@ function OurServices(props) {
 <div>
               <div className='contact'>
             <div className="container">
-            <h5 className='adr'>השירותים שלנו</h5>
+            <h5 className='adr font-link'>השירותים שלנו</h5>
             <div className="row align-items-start contact">
                 <div className='ro2'>
                 {menu}

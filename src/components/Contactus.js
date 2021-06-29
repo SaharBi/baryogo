@@ -96,7 +96,7 @@ function Contactus(props) {
         <div className='contact'>
 
 
-<div className="container">
+<div className="container font-link">
             <div className="row row-content">
                 <div className="col-12">
                 </div>

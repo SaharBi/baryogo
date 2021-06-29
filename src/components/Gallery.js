@@ -28,9 +28,9 @@ function Gallerya(props) {
         <div>
         <div>
               <div className='contact'>
-            <div className="container">
+            <div className="container font-link">
             <div className="row">
-                <div className="col-12 col-sm-5 offset-sm-1">
+                <div className="col-12 col-sm-12 offset-sm-1">
                     <div className='adr'>
                         <h5>גלריית תמונות</h5><br />
                         <Carousel>
@@ -187,7 +187,7 @@ function Gallerya(props) {
 </Carousel>
                         </div>
                 </div>
-                <div className="col-lg-6 row-header">
+                {/* <div className="col-lg-6 row-header">
                 <h5>סרטונים</h5><br />
                 <div className='row'>
                 <div className='video carImg'>
@@ -210,7 +210,7 @@ function Gallerya(props) {
     />
     </div>
     </div>
-                </div>
+                </div> */}
             </div>
         </div>
         </div>

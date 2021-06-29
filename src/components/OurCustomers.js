@@ -14,6 +14,16 @@ import Menu11 from '../assets/images/customers/11.jpg';
 import Menu12 from '../assets/images/customers/12.jpg';
 import Menu13 from '../assets/images/customers/13.jpg';
 import Menu14 from '../assets/images/customers/14.jpg';
+import Menu15 from '../assets/images/customers/15.jpg';
+import Menu16 from '../assets/images/customers/16.jpg';
+import Menu17 from '../assets/images/customers/17.jpg';
+import Menu18 from '../assets/images/customers/18.jpg';
+import Menu19 from '../assets/images/customers/19.jpg';
+import Menu20 from '../assets/images/customers/20.jpg';
+import Menu21 from '../assets/images/customers/21.jpg';
+import Menu22 from '../assets/images/customers/22.jpg';
+import Menu23 from '../assets/images/customers/23.jpg';
+import Menu24 from '../assets/images/customers/24.jpg';
 
 function OurCustomers(props) {
 
@@ -101,20 +111,83 @@ function OurCustomers(props) {
             name: 'בנק לאומי',
             image: Menu14,
             description: 'בלה בלה בלה'
-        }
+        },
+        {
+            id: 14,
+            name: 'ש.פרידמן',
+            image: Menu15,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 15,
+            name: 'בונזור',
+            image: Menu16,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 16,
+            name: 'מיטיגה',
+            image: Menu17,
+            description: 'השירות היה מדהים בלה בלה בלה בלה בלה'
+        },
+        {
+            id: 17,
+            name: 'גוד פארם',
+            image: Menu18,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 18,
+            name: 'עיריית לוד',
+            image: Menu19,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 19,
+            name: 'סלע',
+            image: Menu20,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 20,
+            name: 'י.ח דימרי',
+            image: Menu21,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 21,
+            name: 'כללית',
+            image: Menu22,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 22,
+            name: 'סורוקה',
+            image: Menu23,
+            description: 'בלה בלה בלה'
+        },
+        {
+            id: 23,
+            name: 'סמגל',
+            image: Menu24,
+            description: 'בלה בלה בלה'
+        },
     ]);
     
     const menu = customers.map( (customer => {
         return(
-    <Card className='gal col-lg-3 col-md-6'>
-      <CardImg variant="top" src={customer.image} className='menuImg'/>
-      <CardBody>
-        <CardTitle className='cardt3'>{customer.name}</CardTitle>
-        <CardText className='cardtext3'>
-          {/* {customer.description} */}
-        </CardText>
-      </CardBody>
-    </Card>
+    // <Card className='gal col-lg-3 col-md-6'>
+    //   <CardImg variant="top" src={customer.image} className='menuImg'/>
+    //   <CardBody>
+    //     <CardTitle className='cardt3'>{customer.name}</CardTitle>
+    //     <CardText className='cardtext3'>
+    //       {/* {customer.description} */}
+    //     </CardText>
+    //   </CardBody>
+    // </Card>
+    <div key={customer.id} className='col-4 col-md-2 p-0'>
+        <img src={customer.image} width={105} height={105} className="menuImg2"/>
+    </div>
         )
     }))
     
@@ -122,15 +195,14 @@ function OurCustomers(props) {
 
 
     return (
-        <div className='container'>
-            <div className='row row-header'>
-                <div className='row contact'>
+        <div className='container font-link'>
+                <div className='row row-header contact'>
                 <h5>לקוחות מרוצים</h5><br/>
                 </div>
                 <div className='row row-header'>
             {menu}
             </div>
-            </div>
+
         </div>
     );
 }
