@@ -2,6 +2,7 @@ import React from 'react';
 import { useLocation, Link } from "react-router-dom";
 import { Button } from 'react-bootstrap';
 import { useHistory } from "react-router-dom";
+import background from './../assets/images/bg.jpg'
 
 function ViewCategoryDetails(props) {
     const { state } = useLocation();
@@ -17,7 +18,7 @@ function ViewCategoryDetails(props) {
   }}
 >
             <div className="col-12 contact adr">
-            <Button variant="success" className ='btnc'>
+            <Button variant="dark" className ='btnc'>
             <h6>{stall.title}</h6>
             </Button>
             </div>
@@ -28,8 +29,8 @@ function ViewCategoryDetails(props) {
 
 
     return (
-        <div className='container contact'>
-            <div className='row'>
+        <div className='container contact coverr'  style={{ backgroundImage: `url(${background})`, backgroundSize: 'contain' }}>
+            <div className='row' >
       <div className="col-12 col-md m-1">
       <h5>{state.stalls.name}</h5>
       </div>
