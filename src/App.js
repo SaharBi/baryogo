@@ -9,10 +9,12 @@ import ViewCategoryDetails from './components/ViewCategoryDetails';
 import ViewCategoryImages from './components/ViewCategoryImages';
 import OurCustomers from './components/OurCustomers';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <BrowserRouter>
+    <ScrollToTop>
     <div className="App">
       <Header />
       <Switch>
@@ -28,6 +30,7 @@ function App() {
       
       <Footer />
     </div>
+    </ScrollToTop>
     </BrowserRouter>
   );
 }
