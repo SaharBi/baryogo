@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/baryogo/static/css/main.25eed03b.chunk.css",
-    "main.js": "/baryogo/static/js/main.cb388c54.chunk.js",
-    "main.js.map": "/baryogo/static/js/main.cb388c54.chunk.js.map",
+    "main.css": "/baryogo/static/css/main.4a237ff4.chunk.css",
+    "main.js": "/baryogo/static/js/main.abd95f2e.chunk.js",
+    "main.js.map": "/baryogo/static/js/main.abd95f2e.chunk.js.map",
     "runtime-main.js": "/baryogo/static/js/runtime-main.99ab91fd.js",
     "runtime-main.js.map": "/baryogo/static/js/runtime-main.99ab91fd.js.map",
     "static/css/2.2cee8929.chunk.css": "/baryogo/static/css/2.2cee8929.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.bb049a85.chunk.js.map": "/baryogo/static/js/3.bb049a85.chunk.js.map",
     "index.html": "/baryogo/index.html",
     "static/css/2.2cee8929.chunk.css.map": "/baryogo/static/css/2.2cee8929.chunk.css.map",
-    "static/css/main.25eed03b.chunk.css.map": "/baryogo/static/css/main.25eed03b.chunk.css.map",
+    "static/css/main.4a237ff4.chunk.css.map": "/baryogo/static/css/main.4a237ff4.chunk.css.map",
     "static/js/2.dea5b15b.chunk.js.LICENSE.txt": "/baryogo/static/js/2.dea5b15b.chunk.js.LICENSE.txt",
     "static/media/1.0b6515cb.jpg": "/baryogo/static/media/1.0b6515cb.jpg",
     "static/media/1.0be79842.jpg": "/baryogo/static/media/1.0be79842.jpg",
@@ -226,7 +226,7 @@
     "static/js/runtime-main.99ab91fd.js",
     "static/css/2.2cee8929.chunk.css",
     "static/js/2.dea5b15b.chunk.js",
-    "static/css/main.25eed03b.chunk.css",
-    "static/js/main.cb388c54.chunk.js"
+    "static/css/main.4a237ff4.chunk.css",
+    "static/js/main.abd95f2e.chunk.js"
   ]
 }
