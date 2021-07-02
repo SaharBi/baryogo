@@ -174,10 +174,10 @@ function Menu(props) {
             image: Menu1,
             menu: [
               {title: "וופל בלגי על מקל", images: [vafel1,vafel2,vafel3,vafel4,vafel5,vafel6,vafel7]},
-              {title: "בר יוגורט", images: [bar1,bar2,bar3,bar4,bar5,bar6,bar7,bar8,bar9,bar10,bar11,bar12]},
+              {title: "בר יוגורט + תוספות", images: [bar1,bar2,bar3,bar4,bar5,bar6,bar7,bar8,bar9,bar10,bar11,bar12]},
               {title: "גלידה אמריקאית", images: [ice1,ice2,ice3,ice4]},
               {title: "קרפ צרפתי", images: [krep1]},
-              {title: "כדורי האושר", images: [balls1,balls2,balls3,balls4,balls5,balls6]},
+              {title: "כדורי האושר - כדורי פנקייק במילוי שוקולד", images: [balls1,balls2,balls3,balls4,balls5,balls6]},
               {title: "שייקים", images: [shake1,shake2,shake3,shake4,shake5]},
               {title: "פנקייקים", images: [panc1,panc2,panc3,panc4]},
               {title: "פופקורן ושיערות סבתא", images: [popc1,popc2,popc3,popc4,popc5]},
@@ -201,7 +201,6 @@ function Menu(props) {
             menu: [
               {title: "טאבון פוקצות | פיצות", images: [piza1,piza2,piza3,piza4,piza5,piza6,piza7,piza8]},
               {title: "פלאפל", images: [fal1,fal2,fal3,fal4]},
-              {title: "סנדוויץ טוניסאי", images: [fri1,fri2,fri3,fri4]},
               {title: "סנדוויץ טוניסאי", images: [fri1,fri2,fri3,fri4]},
             ]
         },
@@ -290,10 +289,14 @@ function Menu(props) {
 הצוות שלנו הוא צוות קבוע, מקצועי ומיומן שיעניק לאורחים שלכם את השירות האיכותי ביותר.
 אתם מוזמנים להכנס בתפריט לגלריה ולהתרשם מדוגמאות לאירועים שאנחנו עושים. 
 המוצרים שלנו כשרים – חלבי / פרווה תוך שמירה מירבית על טעם איכותי ומיוחד.
-</p><p className='titlee2'>
+</p>
+<a className="links" href="tel:0544555545">
+<p className='titlee2'>
 אז למה אתם מחכים? צרו קשר עכשיו ותהפכו את האירוע שלכם לטעים יותר !
+</p>
+</a>
 
-                        </p>
+
                         </div>
                 </div>
                 <div className="col-12 col-sm-5 offset-sm-1">
