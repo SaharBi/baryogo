@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/baryogo/static/css/main.4a237ff4.chunk.css",
-    "main.js": "/baryogo/static/js/main.abd95f2e.chunk.js",
-    "main.js.map": "/baryogo/static/js/main.abd95f2e.chunk.js.map",
+    "main.js": "/baryogo/static/js/main.e6e8b171.chunk.js",
+    "main.js.map": "/baryogo/static/js/main.e6e8b171.chunk.js.map",
     "runtime-main.js": "/baryogo/static/js/runtime-main.99ab91fd.js",
     "runtime-main.js.map": "/baryogo/static/js/runtime-main.99ab91fd.js.map",
     "static/css/2.2cee8929.chunk.css": "/baryogo/static/css/2.2cee8929.chunk.css",
@@ -227,6 +227,6 @@
     "static/css/2.2cee8929.chunk.css",
     "static/js/2.dea5b15b.chunk.js",
     "static/css/main.4a237ff4.chunk.css",
-    "static/js/main.abd95f2e.chunk.js"
+    "static/js/main.e6e8b171.chunk.js"
   ]
 }
