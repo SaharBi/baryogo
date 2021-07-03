@@ -140,6 +140,9 @@ import fri2 from '../assets/images/menu/cat2/fri/2.jpg';
 import fri3 from '../assets/images/menu/cat2/fri/3.jpg';
 import fri4 from '../assets/images/menu/cat2/fri/4.jpg';
 import cafe1 from '../assets/images/menu/cat3/cafe/1.jpg';
+import kala1 from '../assets/images/menu/cat3/kala/1.jpg';
+import kala2 from '../assets/images/menu/cat3/kala/2.jpg';
+import kala3 from '../assets/images/menu/cat3/kala/3.jpg';
 import shai1 from '../assets/images/menu/cat4/shai/1.jpg';
 import shai2 from '../assets/images/menu/cat4/shai/2.jpg';
 import shai3 from '../assets/images/menu/cat4/shai/3.jpg';
@@ -210,6 +213,7 @@ function Menu(props) {
             image: Menu3,
             menu: [
               {title: "בר קפה", images: [cafe1]},
+              {title: "שתייה קלה", images: [kala1,kala2,kala3]},
 
             ]
         },
