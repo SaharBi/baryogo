@@ -348,6 +348,7 @@ function Menu(props) {
             <div className="row row-header contact">
                   {menu}
             </div>
+            <div class="powr-hit-counter" id="60e268ee_1625824666"></div>
           </div>
           </div>
     );
