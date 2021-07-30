@@ -191,7 +191,7 @@ function Menu(props) {
               {title: "ברד", images: [barad1,barad2]},
               {title: "דוכן פירות מעוצב | כוסות פירות | מגשי פירות | סושי פירות", images: [fruit1,fruit2,fruit3,fruit4,fruit5,fruit6,fruit7,fruit8,fruit9,fruit10,fruit11]},
               {title: "דוכן קרואסונים מיוחד", images: [kru1,kru2,kru3,kru4,kru5]},
-              {title: "עגלת בייגלה מתוק | מלוח", images: [beg1,beg2,beg3,beg4]},
+              {title: "עגלת פרעצל מתוק | מלוח", images: [beg1,beg2,beg3,beg4]},
               {title: "דוכן ערמונים", images: [arm1,arm2,arm3,arm4]},
               {title: "דוכן צורוס", images: [chor1,chor2]},
               {title: "חנוכה בבר יוגו", images: [hanuka1,hanuka2,hanuka3,hanuka4,hanuka5,hanuka6,hanuka7,hanuka8,hanuka9,hanuka10,hanuka11,hanuka12,hanuka13,hanuka14,hanuka15,hanuka16,hanuka17,hanuka18,hanuka19,hanuka20]},
