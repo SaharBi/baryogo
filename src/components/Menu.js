@@ -307,6 +307,9 @@ function Menu(props) {
                     <img className='caru2' src={AboutUsImg} height={400} width={450}></img>
                 </div>
             </div>
+            <div className="row row-content">
+              <h5>לחצו על הקטגוריה הרצויה כדי להתרשם מהמוצרים שלנו:</h5>
+            </div>
 
 
         {/* <div className='row row-header'>
